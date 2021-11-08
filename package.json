@@ -19,6 +19,6 @@
   "devDependencies": {
     "lodash": ">=4.17.21",
     "mquery": ">=3.2.3",
-    "dotty": ">=0.1.1"
+    "dotty": ">=0.1.2"
   }
 }
