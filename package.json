@@ -19,6 +19,7 @@
   "devDependencies": {
     "lodash": ">=4.17.21",
     "mquery": ">=3.2.3",
-    "dotty": ">=0.1.2"
+    "dotty": ">=0.1.2",
+    "mpath": ">=0.8.4"
   }
 }
